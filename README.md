@@ -19,6 +19,12 @@
 
 ---
 
+### Right now
+
+I'm competing in the [2026 Amazon Nova AI Challenge](https://www.amazon.science/nova-ai-challenge/teams/lion-0xa) with Penn State's Team Lion-0xA. We're building a red teaming agent to find security weaknesses in web applications created by AI coding assistants.
+
+---
+
 ### Things I've built
 
 | Project | What it does | Stack |
