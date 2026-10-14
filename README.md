@@ -29,7 +29,7 @@ I like building things that make life a little easier. Most days, that means tin
 
 I'm competing in the **2026 Amazon Nova AI Challenge** with Penn State's Team Lion-0xA. We're building a red teaming agent to find security weaknesses in web applications created by AI coding assistants.
 
-The [challenge overview](https://www.amazon.science/nova-ai-challenge) explains the tournament. My team's official page is here if you want to see the people behind it:  
+Penn State [wrote about the challenge and our team](https://www.psu.edu/news/research/story/ist-engineering-students-competing-global-amazon-nova-ai-challenge). My team's official Amazon page is here if you want to see the people behind it:  
 `https://www.amazon.science/nova-ai-challenge/teams/lion-0xa`
 
 ---
