@@ -65,8 +65,8 @@ Penn State [wrote about the challenge and our team](https://www.psu.edu/news/res
 
 <div align="center">
 
-<img height="160" alt="Rishi's GitHub activity statistics" src="https://github-readme-stats.vercel.app/api?username=x1de&show_icons=true&hide_border=true&bg_color=101c2b&title_color=81e6d5&text_color=e5edf3&icon_color=81e6d5&hide_rank=true" />
-<img height="160" alt="Rishi's most used public repository languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=x1de&layout=compact&hide_border=true&bg_color=101c2b&title_color=81e6d5&text_color=e5edf3&langs_count=6" />
+<img height="155" alt="GitHub activity summary for x1de" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=x1de&amp;theme=tokyonight" />
+<img height="155" alt="Public repositories by primary language for x1de" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=x1de&amp;theme=tokyonight" />
 
 <sub>These cards update from my public GitHub activity.</sub>
 
