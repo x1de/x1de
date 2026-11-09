@@ -38,6 +38,7 @@ Penn State [wrote about the challenge and our team](https://www.psu.edu/news/res
 
 | | Project | The short version |
 | :---: | :--- | :--- |
+| 🧾 | [**Clawback**](https://github.com/devank-yadav/clawback) | A Cal Hacks 13.0 project that helps small food brands check distributor deductions against their contracts and build evidence-backed disputes. |
 | ☎️ | [**Porchlight**](https://github.com/devank-yadav/porchlight) | An AI phone companion that checks in with older adults and helps families stay connected. |
 | 🎟️ | [**TicketIQ**](https://github.com/x1de/llm-inference-service) | A support-ticket API that handles LLM work in the background, so teams can keep moving. |
 | 🧠 | [**Who Wrote It?**](https://github.com/x1de/llm-authorship-classification) | An experiment comparing neural networks that identify which LLM wrote a response. |
